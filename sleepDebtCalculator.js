@@ -49,5 +49,4 @@ const calculateSleepDebt = () => {
 
 calculateSleepDebt();
 
-//console.log(getIdealSleepHours());
-//console.log(getActualSleepHours());
+
